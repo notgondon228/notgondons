@@ -1,11 +1,10 @@
-#id1   {
+
+    #id1   {
     color: blue;
     position: absolute;
     width: 500px;
     height: 400px;
-    margin-top: 50%;
-
-
+    margin-top: 100px;
 }
 
 #id2 {
